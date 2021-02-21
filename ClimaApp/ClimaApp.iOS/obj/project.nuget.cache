@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XqEl4dp0EKieLYwgJCMWcFo55445EoQ7vGZCBkFf7Jq4yK7k6DDrgPDr17RNwpnY5Ivu4asKodHKXi9L4P6i4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kukul\\source\\repos\\Movil\\ClimaApp\\ClimaApp\\ClimaApp.iOS\\ClimaApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

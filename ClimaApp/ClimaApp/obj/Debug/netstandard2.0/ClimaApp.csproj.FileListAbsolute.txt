@@ -1,0 +1,14 @@
+C:\Users\kukul\source\repos\Movil\ClimaApp\ClimaApp\ClimaApp\bin\Debug\netstandard2.0\ClimaApp.deps.json
+C:\Users\kukul\source\repos\Movil\ClimaApp\ClimaApp\ClimaApp\bin\Debug\netstandard2.0\ClimaApp.dll
+C:\Users\kukul\source\repos\Movil\ClimaApp\ClimaApp\ClimaApp\bin\Debug\netstandard2.0\ref\ClimaApp.dll
+C:\Users\kukul\source\repos\Movil\ClimaApp\ClimaApp\ClimaApp\bin\Debug\netstandard2.0\ClimaApp.pdb
+C:\Users\kukul\source\repos\Movil\ClimaApp\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\ClimaApp.csprojAssemblyReference.cache
+C:\Users\kukul\source\repos\Movil\ClimaApp\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kukul\source\repos\Movil\ClimaApp\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kukul\source\repos\Movil\ClimaApp\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\ClimaApp.AssemblyInfoInputs.cache
+C:\Users\kukul\source\repos\Movil\ClimaApp\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\ClimaApp.AssemblyInfo.cs
+C:\Users\kukul\source\repos\Movil\ClimaApp\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\ClimaApp.csproj.CoreCompileInputs.cache
+C:\Users\kukul\source\repos\Movil\ClimaApp\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kukul\source\repos\Movil\ClimaApp\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\ClimaApp.dll
+C:\Users\kukul\source\repos\Movil\ClimaApp\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\ref\ClimaApp.dll
+C:\Users\kukul\source\repos\Movil\ClimaApp\ClimaApp\ClimaApp\obj\Debug\netstandard2.0\ClimaApp.pdb
